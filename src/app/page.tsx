@@ -28,7 +28,7 @@ export default function Home() {
           height={60}
           className="rounded-full object-cover"
         />
-        <span className="font-semibold text-gray-800">24/7 Hours Support</span>
+        <span className="font-semibold text-gray-800">No Support</span>
       </div>
 
       {/* Phone */}
