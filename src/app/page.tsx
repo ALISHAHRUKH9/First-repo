@@ -28,7 +28,7 @@ export default function Home() {
           height={60}
           className="rounded-full object-cover"
         />
-        <span className="font-semibold text-gray-800">No Support</span>
+        <span className="font-semibold text-gray-800">24/7 Hours Support</span>
       </div>
 
       {/* Phone */}
@@ -40,7 +40,7 @@ export default function Home() {
       {/* WhatsApp */}
       <div className="flex items-center gap-2 min-w-[250px] justify-center">
         <FaWhatsapp className="text-green-500 text-lg" />
-        <span className="text-gray-700 font-medium"> +92 322 8378735</span>
+        <span className="text-gray-700 font-medium">WhatsApp +92 322 8378735</span>
       </div>
 
       {/* Email */}
